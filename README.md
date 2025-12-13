@@ -6,7 +6,7 @@ This frontend is deployed on **Vercel** and connects to a fully serverless backe
 ---
 
 ## 🚀 Live Demo
-🔗 **Frontend:** https://your-vercel-link  (to be updated)
+🔗 **Frontend:** https://vercel-link  (to be updated)
 
 ---
 
